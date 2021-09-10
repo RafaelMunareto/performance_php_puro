@@ -1,0 +1,157 @@
+
+
+body, html{
+  background-color: #e0eaf5;
+}
+
+.neomorphic-div{
+    background-color: #e0eaf5;
+}
+
+.neomorphic-conc{
+    box-shadow:  inset 2px 2px 5px #BECBD8, inset -5px -5px 10px #e0eaf5;
+}
+
+.neomorphic-card {
+    background-color: #e0eaf5;
+    box-shadow: 3px 3px 3px #BECBD8, -1px -1px 10px #e0eaf5;
+    border-left: 1px solid #F3F9FF;
+    border-top: 1px solid #F3F9FF;
+}
+
+
+.neomorphic-buttom {
+    border:0;
+    background-color: #e0eaf5;
+    box-shadow: 3px 3px 3px #BECBD8, -1px -1px 10px #e0eaf5;
+    border-left: 1px solid #F3F9FF;
+    border-top: 1px solid #F3F9FF;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    font-weight: 600;
+
+}
+
+.button-down-basic{
+    padding:0.5rem;
+    border-radius: 10px;
+    background-color: #e0eaf5;
+    box-shadow: 3px 3px 3px #BECBD8, -1px -1px 10px #e0eaf5;
+    border-left: 1px solid #F3F9FF;
+    border-top: 1px solid #F3F9FF;
+    min-width: 6rem;
+    margin-right:0.5rem;
+    display:flex;
+    flex-direction:column;
+    font-size:80%;
+}
+
+
+.neomorphic-card-inverse {
+    background-color: #e0eaf5;
+    box-shadow: -10px -10px 20px #F3F9FF, 1px 1px 20px #BECBD8;
+}
+
+
+.neomorphic-text-gray {
+    background-color: #BECBD8;
+    color: transparent;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+}
+
+.neomorphic-text-black {
+    background-color: #141414;
+    color: transparent;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+}
+
+.neomorphic-black-small{
+    color:#292929;
+    font-size:100%;
+
+}
+
+.neomorphic-input {
+    border: 0;
+    background: #e0eaf5;
+    box-shadow:  inset 2px 2px 5px #BABECC, inset -3px -5px 20px #e0eaf5;
+    width: 100%;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+    appearance: none;
+    -webkit-appearance: none;
+    text-shadow: 1px 1px 0 #fff;
+}
+
+.neomorphic-input:focus {
+      box-shadow:  inset 1px 1px 2px #BABECC, inset -1px -1px 2px #fff;
+}
+
+.text-shadow{
+    text-shadow: 1px 1px 0 #fff;
+}
+/*icones redes sociais*/
+.icon-list {
+    width: 100%;
+    padding: 0 0.75rem;
+}
+
+.icon-item {
+    list-style: none;
+    background-color: #e0eaf5;
+    box-shadow: 3px 3px 3px #BECBD8, -3px -3px 10px #F3F9FF;
+    margin:2rem;
+    padding:1rem;
+    border-radius:100px;
+}
+
+.icon-item-conc {
+    list-style: none;
+    background-color: #e0eaf5;
+    box-shadow:  inset 2px 2px 5px #BECBD8, inset -5px -5px 10px #e0eaf5;
+    margin:2rem;
+    padding:1rem;
+    border-radius:100px;
+}
+
+.icon-link {
+    display: flex;
+    font-size: 1.2rem;
+    text-decoration: none;
+
+}
+
+.icon-link:hover {
+    text-decoration: none;
+
+}
+
+/*barra progresso*/
+
+.progress {
+    width:200px;
+    height: 10px;
+    position: relative;
+  }
+
+  .progress span {
+    position: absolute;
+    width: 65%;
+    height: 100%;
+    border-radius: 10px;
+    border: 3px solid #e0eaf5;
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+
+.soft {
+    border-radius: 10px;
+    box-shadow:  inset 2px 2px 5px #BECBD8, inset -5px -5px 10px #e0eaf5;
+  }
+

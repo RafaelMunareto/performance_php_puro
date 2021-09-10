@@ -1,0 +1,61 @@
+@media (max-width: 767px){
+
+    /* @medias */
+
+    #mobile{
+        display:block;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    #desktop{
+        display:none
+    }
+
+    #mobile label {
+        font-size:90%;
+    }
+
+
+    #mobile a:hover {
+        text-decoration: none;
+    }
+
+
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+    /* @medias */
+
+    #mobile{
+        display:block;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    #desktop{
+        display:none
+    }
+
+    #mobile label {
+        font-size:90%;
+    }
+
+
+    #mobile a:hover {
+        text-decoration: none;
+    }
+
+    #cards-resultadoS{
+        margin-bottom: 5%;
+        width: 650px;
+        margin-left:0.5rem;
+        margin-right: 1rem;
+    }
+}
+

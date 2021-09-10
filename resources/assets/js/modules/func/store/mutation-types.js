@@ -1,0 +1,4 @@
+export const SET_FUNC = 'FUNC/SET_FUNC'
+export const SET_FUNC_PAG = 'FUNC/SET_FUNC_PAG'
+export const SET_FUNC_PAGINATION = 'FUNC/SET_FUNC_PAGINATION'
+

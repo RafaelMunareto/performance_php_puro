@@ -1,0 +1,5 @@
+export const SET_PROD = 'PROD/SET_PROD'
+export const SET_PROD2 = 'PROD/SET_PROD2'
+export const SET_PROD_PAG = 'PROD/SET_PROD_PAG'
+export const SET_PROD_PAGINATION = 'PROD/SET_PROD_PAGINATION'
+
